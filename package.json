@@ -1,0 +1,30 @@
+{
+  "name": "moolinovationassignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1162.0",
+    "express": "^4.18.1",
+    "it": "^1.1.1",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudluc123/moolInnovationAssignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gudluc123/moolInnovationAssignment/issues"
+  },
+  "homepage": "https://github.com/gudluc123/moolInnovationAssignment#readme",
+  "description": ""
+}
